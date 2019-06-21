@@ -1,0 +1,28 @@
+body{
+  background-size: 100%;
+  }
+h1{
+  color: white;
+  border: solid black;
+  background-color: black;
+  background: black;
+}
+h2{
+  color: white;
+  border: black;
+  background-color: black;
+  background: black;
+}
+p{
+  color:white;
+  border: black;
+  background-color:black;
+  background:black;
+}
+
+#button{
+  padding: 25px;
+}
+@media screen and (max-width: 400px){
+
+}
